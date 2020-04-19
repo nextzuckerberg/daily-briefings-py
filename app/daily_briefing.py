@@ -37,4 +37,3 @@ if __name__ == "__main__":
 
     send_email(subject="[Daily Briefing] My Morning Report", html=html)
 
-#
